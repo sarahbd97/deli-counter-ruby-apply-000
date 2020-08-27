@@ -17,10 +17,10 @@ end
 number = 0
 
 def take_a_number(number)
-  
+
   number += 1
   puts "Your number is: #{number}"
-  
+
 end
 
 def now_serving(deli)
